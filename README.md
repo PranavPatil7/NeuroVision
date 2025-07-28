@@ -1,5 +1,4 @@
-# Bevy XReal AR demo
-
+# Neuro Vision
 A simple demo using [bevy](https://github.com/bevyengine/bevy) and [ar-drivers-rs](https://github.com/badicsalex/ar-drivers-rs) to showcase camera movement in a 3D world. Based on [this](https://bevyengine.org/examples/3D%20Rendering/generate-custom-mesh/) bevy example.
 
 Should work with XREAL Air, Air 2, and Air 2 Pro. Also probably only works on Mac OS (Windows doesn't work, see [issue](https://github.com/badicsalex/ar-drivers-rs/issues/13)).
